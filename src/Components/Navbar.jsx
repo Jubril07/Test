@@ -1,4 +1,3 @@
-import "./test";
 const Navbar = () => {
   return (
     <div id="nav">
