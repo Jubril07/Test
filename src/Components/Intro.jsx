@@ -3,12 +3,10 @@ const Intro = () => {
     <div className="intro" id="home">
       <div className="intro-text">
         Hi <br />
-        I'm Haruna M. Jubril <br />A frontend developer who loves designing and
-        developing web apps
+        I'm Haruna M. Jubril <br />A Frontend Web Developer/Designer
         <div>
-          <br />
           <a href="#contact">
-            <button>Contact Me</button>
+            <button className="button">Contact Me</button>
           </a>
         </div>
       </div>{" "}
